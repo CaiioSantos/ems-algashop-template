@@ -1,4 +1,4 @@
-package com.algaworks.algashop.template.presentation;
+package com.algaworks.algashop.billingscheduler.presentation;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
